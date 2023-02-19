@@ -7,4 +7,4 @@ The project demonstrates the power and flexibility of blockchain technology, as 
 ![image](https://user-images.githubusercontent.com/53761189/219956443-49812e77-eb7a-492f-8068-b8090744b539.png)
 
 
-#react #truffle #ganache #solidity #web3js
+# react # truffle # ganache # solidity # web3js
